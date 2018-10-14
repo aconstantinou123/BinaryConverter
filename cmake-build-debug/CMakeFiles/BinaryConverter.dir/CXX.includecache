@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexconstantinou/CLionProjects/BinaryConverter/main.cpp
+iostream
+-
+vector
+-
+math.h
+/Users/alexconstantinou/CLionProjects/BinaryConverter/math.h
+
